@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.f86a60a3.css",
-    "main.js": "./static/js/main.e7c2840e.js",
+    "main.js": "./static/js/main.487c642e.js",
     "static/media/MetadataTampering_Paper.pdf": "./static/media/MetadataTampering_Paper.14ca6b53dfebb94ae9b2.pdf",
     "static/media/faces.gif": "./static/media/faces.31c4ec5bce8471d285f2.gif",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
@@ -10,6 +10,7 @@
     "static/media/top_image.jpg": "./static/media/top_image.e38bccbc1eff95debd61.jpg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.267883674ebc65519f09.png",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
+    "static/media/bisque_illustration.png": "./static/media/bisque_illustration.c3e34b335e175c9a03d4.png",
     "static/media/fake_media_objects_removed.png": "./static/media/fake_media_objects_removed.066fc7391a92456787ae.png",
     "static/media/cover_pic.png": "./static/media/cover_pic.b6c1b81e12d183d5a729.png",
     "static/media/satellite_image_analysis.png": "./static/media/satellite_image_analysis.14af0b3fb06f6c2b3e3c.png",
@@ -79,10 +80,10 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.f86a60a3.css.map": "./static/css/main.f86a60a3.css.map",
-    "main.e7c2840e.js.map": "./static/js/main.e7c2840e.js.map"
+    "main.487c642e.js.map": "./static/js/main.487c642e.js.map"
   },
   "entrypoints": [
     "static/css/main.f86a60a3.css",
-    "static/js/main.e7c2840e.js"
+    "static/js/main.487c642e.js"
   ]
 }
