@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.0ff3ace7.css",
-    "main.js": "./static/js/main.926f9b92.js",
+    "main.css": "./static/css/main.62fd1da0.css",
+    "main.js": "./static/js/main.fae805d7.js",
     "static/media/MetadataTampering_Paper.pdf": "./static/media/MetadataTampering_Paper.14ca6b53dfebb94ae9b2.pdf",
     "static/media/faces.gif": "./static/media/faces.31c4ec5bce8471d285f2.gif",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
+    "static/media/output4.png": "./static/media/output4.125584d398cfb9affe7b.png",
     "static/media/gan_ian.png": "./static/media/gan_ian.a13031d5f79c3aa699ca.png",
+    "static/media/sfm_image.png": "./static/media/sfm_image.a1054d78306e77ded0f4.png",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/top_image.jpg": "./static/media/top_image.e38bccbc1eff95debd61.jpg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.267883674ebc65519f09.png",
@@ -79,11 +81,11 @@
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.0ff3ace7.css.map": "./static/css/main.0ff3ace7.css.map",
-    "main.926f9b92.js.map": "./static/js/main.926f9b92.js.map"
+    "main.62fd1da0.css.map": "./static/css/main.62fd1da0.css.map",
+    "main.fae805d7.js.map": "./static/js/main.fae805d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ff3ace7.css",
-    "static/js/main.926f9b92.js"
+    "static/css/main.62fd1da0.css",
+    "static/js/main.fae805d7.js"
   ]
 }
